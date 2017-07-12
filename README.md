@@ -5,8 +5,9 @@ As seen in PPSSPP.<br>
 Icons editor is attached (with FontAwesome icons pack), so it is very easy to customize every icon and the overall result.<br>
 
 # Demo
-Test page - https://priler.github.io/Epic-BG-PPSSPP-like-/index.html<br>
-Edito - https://priler.github.io/Epic-BG-PPSSPP-like-/edit.html<br>
+PPSSPP icons - https://priler.github.io/Epic-BG-PPSSPP-like-/ppsspp.html<br>
+Custom icons - https://priler.github.io/Epic-BG-PPSSPP-like-/index.html<br>
+Editor - https://priler.github.io/Epic-BG-PPSSPP-like-/edit.html<br>
 
 ### Author
 
