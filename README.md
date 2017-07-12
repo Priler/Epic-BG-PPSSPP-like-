@@ -4,6 +4,8 @@ Responsive background for website or NWJS/Electron app, written with pure CSS3.<
 As seen in PPSSPP.<br>
 Icons editor is attached (with FontAwesome icons pack), so it is very easy to customize every icon and the overall result.<br>
 
+![demo screenshot](screenshot.jpg)
+
 # Demo
 PPSSPP icons - https://priler.github.io/Epic-BG-PPSSPP-like-/ppsspp.html<br>
 Custom icons - https://priler.github.io/Epic-BG-PPSSPP-like-/index.html<br>
